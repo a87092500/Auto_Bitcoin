@@ -49,7 +49,7 @@ When user asks to install or configure this skill:
 
 ```bash
 # Set your API key
-export SIMMER_API_KEY="019c655f-cbc8-7ca0-9980-f99517656fa0"
+export SIMMER_API_KEY="your-key-here"
 
 # Dry run — see what would happen
 python fastloop_trader.py
